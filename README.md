@@ -5,7 +5,8 @@
 - 📫 More info available upon request. For humans, not robots.
 - ⚡ Fun fact: My favorite topics include cybersecurity, coding, and networking
 - ⚡ Good at Python, ok at Access, knowledgable at C++
-- Updated 10/25/2024
+- Soon: historical uploads of projects I've done, after removing my name from each for publication
+- Updated 4/1/2025
 - ![CatTypingGIF](https://github.com/user-attachments/assets/45170b28-86dd-4c32-af05-59d22e9eb8dc)
 
 
